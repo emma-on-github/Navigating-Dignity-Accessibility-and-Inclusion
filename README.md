@@ -103,13 +103,15 @@ Many transgender, disabled, and LGBTQ+ people are navigating similar concerns. T
 Responsible implementation requires more than technical compliance. It requires listening to those affected, designing for accessibility and dignity, training staff appropriately, and creating clear routes for feedback and resolution.
 
 ## Why I Am Writing This
-I am writing this because policies and guidance affect real people with real lives.
+I am writing this because:
 
-I am writing this because inclusion, accessibility, privacy, and dignity are not abstract principles; they shape whether people can move through the world safely and confidently.
+- policies and guidance affect real people with real lives.
 
-I am writing this because sharing lived experience can help organisations and professionals understand the impact of their decisions and improve the way policies are designed and implemented.
+- inclusion, accessibility, privacy, and dignity are not abstract principles; they shape whether people can move through the world safely and confidently.
 
-And I am writing this because perhaps someone else feels the same way and needs to know that they are not alone.
+- sharing lived experience can help organisations and professionals understand the impact of their decisions and improve the way policies are designed and implemented.
+
+- and perhaps someone else feels the same way and needs to know that they are not alone.
 
 My hope is that this reflection contributes to a more thoughtful, respectful, and practical conversation about how to protect rights while ensuring that everyone can access public life with dignity.
 
