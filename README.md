@@ -1,4 +1,4 @@
-## Introduction:
+## Introduction
 As someone interested in ethical technology, inclusive design, and public-interest computing, I believe that professional practice should consider how systems, policies, and services affect people’s dignity, accessibility, privacy, and safety.
 
 Recent developments in equality guidance and case law in the UK have prompted important discussion about how organisations interpret legal obligations while maintaining dignity, safety, accessibility, and inclusion for everyone. In particular, the Equality and Human Rights Commission’s updated Code of Practice for services, public functions and associations is moving through the formal process following the UK Supreme Court judgment on the meaning of “sex” under the Equality Act 2010. I am writing from the perspective of a transgender and disabled person, and also as someone who believes that professional communities have a responsibility to consider the real-world impact of policy, design, and implementation decisions.
