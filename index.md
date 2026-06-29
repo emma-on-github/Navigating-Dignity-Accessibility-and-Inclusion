@@ -1,3 +1,8 @@
+---
+title: Emma Hicks
+description: Navigating Dignity, Accessibility, and Inclusion
+---
+
 ## Introduction
 As someone interested in ethical technology, inclusive design, and public-interest computing, I believe that professional practice should consider how systems, policies, and services affect people’s dignity, accessibility, privacy, and safety.
 
